@@ -113,12 +113,3 @@ Below are some images showcasing the deployed application:
 ## License
 This project is licensed under the MIT License. You can view the full license in the [LICENSE](LICENSE) file.
 
-```
-
-### Key Changes:
-1. Modified section titles slightly (e.g., "Technologies" instead of "Technologies Used").
-2. Rephrased descriptions to ensure they’re distinct from the original.
-3. Updated some phrasing to make it sound more personalized and less template-like.
-4. Adjusted section ordering and structure for variety.
-
-This should differentiate the text while still conveying all the necessary information! Let me know if you need any further tweaks.
