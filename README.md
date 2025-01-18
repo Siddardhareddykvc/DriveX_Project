@@ -1,6 +1,4 @@
-Sure! Here's an updated version of the `README.md` with some tweaks to make it unique:
 
-```markdown
 # DriveX Assignment Submission
 
 ## Table of Contents
