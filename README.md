@@ -96,12 +96,6 @@ DriveX-Assignment-Submission/
 └── package.json                # Node.js dependencies (if applicable)
 ```
 
-## Contributing
-We welcome contributions! If you have ideas or improvements to make:
-1. Fork the repository.
-2. Create a new branch (e.g., `feature/your-feature-name`).
-3. Make your changes and push them to your fork.
-4. Open a pull request with a description of your changes.
 
 ## Screenshots of Deployment
 Below are some images showcasing the deployed application:
