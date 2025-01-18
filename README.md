@@ -74,7 +74,7 @@ npm start
 
 ## How to Use
 - Start the app using the commands provided above.
-- Open your browser and navigate to `http://localhost:3000` (or another specified port).
+- Open your browser and navigate to `http://localhost:5173` (or another specified port).
 - Upload an Excel document and start asking questions via the user interface. The AI will provide responses based on the content.
 
 ## Project Structure
