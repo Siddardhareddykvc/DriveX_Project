@@ -36,12 +36,12 @@ To run the project locally, follow the steps below:
 
 ### 1. Clone the repository:
 ```bash
-git clone https://github.com/VIVEKVARDHANV/DriveX-Assignment-Submission.git
+git clone https://github.com/Siddardhareddykvc/DriveX_Project.git
 ```
 
 ### 2. Navigate to the project directory:
 ```bash
-cd DriveX-Assignment-Submission
+cd DriveX_Project
 ```
 
 ### 3. Install dependencies:
